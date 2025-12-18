@@ -1,0 +1,13 @@
+tensorflow-macos==2.15.1
+tensorflow-metal==1.1.0
+
+pandas
+numpy
+scikit-learn
+matplotlib
+
+tensorboard==2.15.1
+protobuf==4.23.4
+
+streamlit==1.40.1
+ipykernel
